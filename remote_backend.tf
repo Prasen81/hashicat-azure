@@ -3,7 +3,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "neworgprch"
     workspaces {
-      name = "hashicat-azure"
+      name = "hashicat-azure-prch"
     }
   }
 }
