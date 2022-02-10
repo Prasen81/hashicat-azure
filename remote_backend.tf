@@ -1,7 +1,7 @@
 terraform {
   backend "remote" {
     hostname = "app.terraform.io"
-<<<<<<< HEAD
+#<<<<<<< HEAD
     organization = "prchorg"
     workspaces {
       name = "hashicat-azure"
